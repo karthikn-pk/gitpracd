@@ -1,0 +1,25 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikn-pk/gitpracd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikn-pk/gitpracd/issues"
+  },
+  "homepage": "https://github.com/karthikn-pk/gitpracd#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
