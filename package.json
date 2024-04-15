@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "learning node js",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,10 @@
   },
   "homepage": "https://github.com/karthikn-pk/gitpracd#readme",
   "dependencies": {
+    "inquirer": "^9.2.18",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
